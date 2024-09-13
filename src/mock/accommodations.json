@@ -1,0 +1,34 @@
+[
+  {
+    "id": 3,
+    "name": "Shared Flat C",
+    "price": 350,
+    "location": "Downtown",
+    "amenities": ["Wi-Fi", "Furnished", "Kitchen"],
+    "image": "/assets/flat1.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Studio Apartment D",
+    "price": 500,
+    "location": "Near Campus",
+    "amenities": ["Wi-Fi", "Air Conditioning", "Balcony"],
+    "image": "/assets/studio1.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Luxury Dorm E",
+    "price": 750,
+    "location": "City Center",
+    "amenities": ["Wi-Fi", "Gym", "Pool", "Concierge"],
+    "image": "/assets/luxurydorm1.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Cozy Cottage F",
+    "price": 450,
+    "location": "Countryside",
+    "amenities": ["Wi-Fi", "Fireplace", "Garden"],
+    "image": "/assets/cottage1.jpg"
+  }
+]
